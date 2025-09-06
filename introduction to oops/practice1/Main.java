@@ -1,3 +1,4 @@
+package practice1;
 // Create a employee class having attributes name and salary and methods getSalary(), setSalary(), setName()
 class Employee {
     String employeeName;
